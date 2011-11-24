@@ -1,12 +1,15 @@
-User Tracking Tool v3.1
+Web-Click-Path-Recorded
+(formally named "User Tracking Tool")
 
 ==========
 SUMMARY
 ==========
 PHP + MySQL tool to log user details as they navigate around a web site
+to support simple usability evaluation of websites
 
 see "doc" folder for user guide and screen shots
 
-.. matt smith .. November 2011
+.. matt smith ..
+dr_matt_smith@me.com
 
-
+hoping for form a startup company soon :-)
