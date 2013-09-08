@@ -1,5 +1,4 @@
 Web-Click-Path-Recorded
-(formally named "User Tracking Tool")
 
 ==========
 SUMMARY
@@ -10,8 +9,8 @@ to support simple usability evaluation of websites
 see "doc" folder for user guide and screen shots
 
 .. matt smith ..
-dr_matt_smith@me.com
 
-hoping for form a startup company soon :-)
-still hoping ... :-;
-
+==========
+TODO
+==========
+- upgrade the Java pre-processing code to PHP so the whole thing is PHP-based ...

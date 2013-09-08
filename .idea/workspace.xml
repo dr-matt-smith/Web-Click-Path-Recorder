@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca8e0fb7-f6c8-460c-8634-626f76e5ab5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Web-Click-Path-Recorder.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
     </list>
     <ignored path="Web-Click-Path-Recorder.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ca8e0fb7-f6c8-460c-8634-626f76e5ab5c" time="1378635147120" ignored="false" />
-    <file path="/README" changelist="ca8e0fb7-f6c8-460c-8634-626f76e5ab5c" time="1378635908141" ignored="false" />
+    <file path="/README" changelist="ca8e0fb7-f6c8-460c-8634-626f76e5ab5c" time="1378637386609" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +30,7 @@
       <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="20" selection-start="369" selection-end="369" vertical-scroll-proportion="0.30906594">
+            <state line="15" column="81" selection-start="355" selection-end="355" vertical-scroll-proportion="0.30906594">
               <folding />
             </state>
           </provider>
@@ -285,7 +279,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="369" selection-end="369" vertical-scroll-proportion="0.30906594">
+        <state line="15" column="81" selection-start="355" selection-end="355" vertical-scroll-proportion="0.30906594">
           <folding />
         </state>
       </provider>
