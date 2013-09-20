@@ -1,0 +1,51 @@
+========================
+Web-Click-Path-Recorder - user guide
+========================
+
+do these steps once to set things up for using the web click path recorder ...
+
+==================
+location of files
+==================
+copy the usertracker folder into your webserver ROOT folder
+e.g.
+	\htdocs
+	
+	or
+	\root (if USB webserver) 
+	etc.
+
+==================
+DB structure and contents
+==================
+this application uses a MySQL database - so you need to set one up
+
+locate the SQL text file which will setup the tables and initial content
+last time I looked this was located here:
+    zz_TRACKER_FILES/db/user_tracking.txt
+
+NOTE: before running these SQL commands, create a new Database matching the name in the SQL text
+last time I checked it was as follows:
+--
+-- Database: `USER_TRACKING`
+--
+
+==================
+DB user and password
+==================
+a DB user needs to be setup with authorisation to work with the database
+
+the DB username and password can be found in this file:
+    zz_TRACKER_FILES/INCLUDE_db_connect.php
+    
+last time I checked the username/password were as follows:
+$username = "fred";
+$password = "smith";
+
+NOTE:
+take responsibility for your own security setup
+e.g.
+restrict access to 'localhost'
+change the DB username and password if the computer you're running the app on has any external internet access etc.
+
+

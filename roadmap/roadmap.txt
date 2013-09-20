@@ -1,0 +1,34 @@
+=======================================================
+
+Web-Click-Path-Recorder - software roadmap
+
+last updated: 20 Sep 2013, Matt Smith
+
+
+==============
+ESSENTIAL
+==============
+
+all essential tasks completed :-)
+
+==========
+DESIRABLE
+==========
+(0)
+translate Java pre processing into PHP - so whole thing can hang off a website !
+
+(1)
+go into sub-directories which may contain HTML files to be preprocessed...
+
+(2)
+compare same task between different users ...
+
+(3)
+average stats?
+
+(4)
+add page for adding/editing comments ...
+
+(other?)
+please email matt.smith@itb.ie for suggested improvements to this system
+

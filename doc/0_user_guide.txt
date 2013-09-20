@@ -1,0 +1,24 @@
+========================
+Web-Click-Path-Recorder - user guide
+========================
+
+(1)
+There are some steps you need to performance once, just to set things up
+you'll find details of those steps in document:
+	1_first_setup.txt
+	
+(2)
+there are steps you need to take each time you wish to use the web click path recorder with one of your websites
+
+the first step sets up the new website to be tracked
+the second step is how to actually run the website and user tracking system
+
+you'll find details of those steps in document:
+	2a_website_setup.txt
+	2b_website_tracking.txt
+	
+	
+have fun!
+
+.. matt smith ..	
+	

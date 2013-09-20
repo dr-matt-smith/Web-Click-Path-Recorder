@@ -1,0 +1,39 @@
+========================
+Web-Click-Path-Recorder - user guide
+========================
+
+Step 2a: organise things for a new website to investigate
+
+(1)
+replace contents of folder "website" with the website files you wish to test
+
+i.e.
+-delete contents of folder "website"
+-copy the website folder you wish to test into the  folder "website"
+
+(2)
+run the Java pre-process in folder
+	\javaPreProcess\
+
+this creates a version of your website in folder "modifiedWebsite"
+- it makes all pages PHP and adds the user tracking code to each file
+- it also updates all links inside your pages to link to the .php version of your filenames
+
+(go on, take a look inside folder "modifiedWebsite" to see how it has changed)
+
+(3) execute the Java file "PreProcess.class" in this folder
+
+(WINDOWS users)
+run (double click) the BAT file in
+	\aa______preProcess_website.bat
+
+(3 - Mac users)
+double click the file "PreProcess.class" 
+
+you should see status messages appear as you run the file
+(you might want to check through to ensure there are no ERROR messages
+- this is prototype software ...)
+
+NOTE
+Feel free to explore the Java source code for the pre-processor – it is an example of a non-trivial Java program, although it has been written in a simple, rather than efficient way, so should be reasonably straightforward to understand
+

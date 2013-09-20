@@ -1,4 +1,6 @@
-Web-Click-Path-Recorded
+========================
+Web-Click-Path-Recorder
+========================
 
 ==========
 SUMMARY

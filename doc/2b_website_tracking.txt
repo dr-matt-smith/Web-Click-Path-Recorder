@@ -1,0 +1,36 @@
+========================
+Web-Click-Path-Recorder - user guide
+========================
+
+	
+Step 2b: How to run the web click path recorder for current website 
+
+(1)
+ensure your webserver and MySQL database are running
+
+(2) 
+in your web browser visit the index page in 
+	\Web-Click-Path-Recorder\
+	(your browser should then execute the index.php home page ...)
+	
+HINT - I recommend you BOOKMARK this page 
+so it is easy to return to
+
+(3)
+the home page does 2 things:
+
+- this will ask you to enter a username and task number
+- offers links to view the list of user logs stored to date
+
+(4)
+having logged in your test user, let them try to complete the task you have set them
+
+(5)
+you should now have a set of logs for this user/task in the DB 
+- this data should form part of your website evaluation evidence
+
+HINT
+if the user got stuck /  required any assistance then you may with to add a note to the appropriate record in the USER_LOG table
+
+(6)
+you might like to use the halfviz output to see a visualisation of the user path through the website ...
