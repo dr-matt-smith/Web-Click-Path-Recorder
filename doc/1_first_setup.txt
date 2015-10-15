@@ -9,10 +9,17 @@ location of files
 ==================
 copy the usertracker folder into your webserver ROOT folder
 e.g.
+
+	## if using Laragon	
+	\www
+	
+	## if using MAMP	
 	\htdocs
 	
 	or
+	## if using USB Webserver	
 	\root (if USB webserver) 
+	
 	etc.
 
 ==================

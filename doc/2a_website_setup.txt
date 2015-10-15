@@ -8,8 +8,8 @@ Step 2a: organise things for a new website to investigate
 replace contents of folder "website" with the website files you wish to test
 
 i.e.
--delete contents of folder "website"
--copy the website folder you wish to test into the  folder "website"
+- delete contents of folder "website"
+- copy the website folder you wish to test into the  folder "website"
 
 (2)
 run the Java pre-process in folder

@@ -1,0 +1,32 @@
+/* --------- page layout --------- */
+
+#nav_bar
+{
+	clear: both;
+	margin-top: 50px;
+	
+	float: right; 
+	width: 20%;
+	
+	border: 5px yellow dashed;
+	padding: 10px;
+}
+
+#page_header
+{
+	float: left;
+	width: 20%;
+}
+
+#company_details
+{
+	float: right;
+	width: 20%;
+	
+	text-align: center;
+}
+
+#main_content
+{
+	clear: both;
+}

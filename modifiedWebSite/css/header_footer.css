@@ -1,0 +1,21 @@
+/* ------ header / footer style ------- */
+
+header, footer {
+    align-items: center;
+
+    margin: 1rem;
+    font-style: italic;
+    font-size: 1.25rem;
+    color: orange;
+}
+
+header {
+    border-bottom: 0.2rem double red;
+}
+
+footer {
+    border-top: 0.2rem double red;
+}
+
+
+

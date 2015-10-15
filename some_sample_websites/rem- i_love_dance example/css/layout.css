@@ -1,0 +1,12 @@
+
+nav {
+    flex: 1;
+}
+
+.column_container {
+    display: flex;
+}
+
+.column_container section {
+    flex: 1;
+}

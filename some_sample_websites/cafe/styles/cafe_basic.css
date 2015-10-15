@@ -1,0 +1,32 @@
+/* ----------- basic CSS --------- */
+
+h1
+{
+	text-align: center;
+	font-size: 30pt;
+}
+
+body
+{
+	margin: 0;
+	background-color: black;
+	color: orange;
+	font-family: sans-serif;
+}
+
+#company_details
+{
+	border-left: 10px white solid;
+	border-top: 10px white solid;
+	border-bottom: 10px white solid;
+	padding: 10px;
+	
+	font-size: 20pt;
+}
+
+
+.special
+{
+	border-left: 5px red dashed;
+	padding-left: 5px;
+}

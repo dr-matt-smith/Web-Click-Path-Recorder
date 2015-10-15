@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title> I Love Dance - home page</title>
+    <title> I Love Dance - steps page</title>
 
     <style>
         @import "css/1_responsive.css";
@@ -50,53 +50,16 @@
 
     <!-- ***************** MAIN - LEFT COLUMN **************** -->
     <section class="divider_right">
-        <h1>Classes</h1>
+        <h1>Exercises</h1>
         <p>
-            We welcome dancers of all ages, abilities and experience. Whether you are a complete beginner, or have been dancing professionally for years, we have a class just right for you.
-        </p>
-
-        <div class="column_container">
-            <div>
-                <img src="images/cat.png" alt="cat">
-            </div>
-
-            <section>
-                <h2>Mini-beginners</h2>
-                <p>
-                    This class is for boys and girls from ages 2 - 5.
-                </p>
-
-                <h2>Young improvers</h2>
-                <p>
-                    Boys and girls between 6 and 12 improve their skills in this class.
-                </p>
-            </section>
-        </div>
-
-        <p>
-            For more information email us at <a href="mailto:info@ilovedance.ie">info@ilovedance.ie</a>.
+            here I would write a list of exercises to do
         </p>
     </section>
 
     <!-- ***************** MAIN - RIGHT COLUMN **************** -->
     <section class="divider_left">
-        <h1>Instructors</h1>
-
-        <h2>Madame Ballerina</h2>
         <p>
-            Madame has been teaching dance for over 30 years, after retiring from the position of prima-ballerina in the Royal Russian Ballet in 1952.
-        </p>
-
-        <h2>NJ Dave</h2>
-        <p>
-            Dave has recently joined the school, and leads the classes in hip-hop and jive.
-        </p>
-        <p>
-            Previously Dave worked as head DJ for <strong>Club Biz</strong> (<a href="http://www.clubbiz.ie">www.clubbiz.ie</a>) in Cork.
-        </p>
-
-        <p>
-            For details of our other instructors see the <a href="staff.html">staff page</a>.
+            some other content goes in here
         </p>
     </section>
 
@@ -118,7 +81,7 @@
 <nav>
     <ul>
         <li>
-            <a href="index.php" class="current_page">
+            <a href="index.php">
                 Home
             </a>
         </li>
@@ -130,7 +93,7 @@
         </li>
 
         <li>
-            <a href="exercises.php">
+            <a href="exercises.php"  class="current_page">
                 Exercises
             </a>
         </li>
